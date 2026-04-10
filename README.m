@@ -1,12 +1,14 @@
-                                      
-                                        .d8888b.   88888888888
-                                        d88P  Y88b      888
-                                        888    888      888
-                                        888             888
-                                        888  88888      888
-                                        888    888      888
-                                        Y88b  d88Pd8b   888
-                                        "Y8888P88Y8P   888
+```
+   .d8888b.   88888888888
+  d88P  Y88b      888
+  888    888      888
+  888             888
+  888  88888      888
+  888    888      888
+  Y88b  d88Pd8b   888
+   "Y8888P88Y8P   888
+```
+
 # DevPublish — Instant Web Stack for Developers
 
 > **Show your project to the world in under 2 minutes.**  
@@ -209,3 +211,22 @@ MONITOR_PORT=8090               # Port the manager monitors
 To change ports after installation, edit `docker-compose.yml` and run `docker compose up -d --force-recreate`.
 
 ---
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create a branch: `git checkout -b feature/my-feature`
+3. Commit: `git commit -m 'Add my feature'`
+4. Push & open a Pull Request
+
+---
+
+## 📜 License
+
+MIT — do whatever you want with it.
+
+---
+
+<p align="center">
+  Built by <a href="https://linktr.ee/Giannis.Tsimpouris">G.T</a> for developers who prefer showing over explaining.
+</p>
