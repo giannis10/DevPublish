@@ -211,22 +211,3 @@ MONITOR_PORT=8090               # Port the manager monitors
 To change ports after installation, edit `docker-compose.yml` and run `docker compose up -d --force-recreate`.
 
 ---
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a branch: `git checkout -b feature/my-feature`
-3. Commit: `git commit -m 'Add my feature'`
-4. Push & open a Pull Request
-
----
-
-## 📜 License
-
-MIT — do whatever you want with it.
-
----
-
-<p align="center">
-  Built by <a href="https://linktr.ee/Giannis.Tsimpouris">G.T</a> for developers who prefer showing over explaining.
-</p>
